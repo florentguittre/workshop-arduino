@@ -9,7 +9,7 @@
 7. Display a digit using the 7-segment display.
 8. Display each digit, like a counter, using the 7-segment display every second.
 9. Print "Hello World!" on a LCD Display.
-10. Print "Hello World!" on a LCD Display, but the text moves accross the display. (example)
+10. Print "Hello World!" on a LCD Display, but the text moves accross the display. ([example](https://github.com/florentguittre/workshop-arduino/blob/main/example_exercice_10.gif))
 
 ## To go further
 11. Make a piezoelectric element buzzes when an object is too close from an ultrasonic sensor.
